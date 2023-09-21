@@ -85,3 +85,4 @@ udp://new-line.net:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://tracker.moeking.me:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
