@@ -65,8 +65,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://tk1v6.trackerservers.com:8080/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
-udp://u4.trakx.crim.ist:1337/announce
 http://tracker.nartlof.com.br:6969/announce
+udp://u4.trakx.crim.ist:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 https://tr.burnabyhighstar.com:443/announce
 udp://opentracker.io:6969/announce
