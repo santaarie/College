@@ -49,9 +49,9 @@ udp://lloria.fr:6969/announce
 udp://mail.segso.net:6969/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://tracker.dler.com:6969/announce
+http://tracker.ipv6tracker.ru:80/announce
 udp://yahor.of.by:6969/announce
 udp://tracker.cyberia.is:6969/announce
-http://tracker.ipv6tracker.ru:80/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tracker.lilithraws.org:443/announce
