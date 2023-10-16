@@ -32,7 +32,6 @@ udp://bigfoot1942.sektori.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://retracker.211.ru:80/announce
 udp://evan.im:6969/announce
-udp://touhou.kawaiiarts.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.bt4g.com:2095/announce
@@ -84,8 +83,8 @@ http://tracker.mywaifu.best:6969/announce
 udp://city21.pk:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://movies.zsw.ca:6969/announce
-http://tracker.renfei.net:8080/announce
 udp://1c.premierzal.ru:6969/announce
+http://tracker.renfei.net:8080/announce
 udp://x.paranoid.agency:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://bt.ktrackers.com:6666/announce
