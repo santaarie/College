@@ -52,8 +52,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://y.paranoid.agency:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker2.dler.com:80/announce
 udp://open.dstud.io:6969/announce
+udp://tracker2.dler.com:80/announce
 udp://tracker.cyberia.is:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://pirate.hz.is:1337/announce
@@ -74,11 +74,11 @@ udp://wepzone.net:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://bt1.archive.org:6969/announce
 udp://carr.codes:6969/announce
+udp://sabross.xyz:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://evan.im:6969/announce
 http://tracker.mywaifu.best:6969/announce
-udp://sabross.xyz:6969/announce
+udp://evan.im:6969/announce
 udp://movies.zsw.ca:6969/announce
 https://t1.hloli.org:443/announce
 udp://tracker1.myporn.club:9337/announce
