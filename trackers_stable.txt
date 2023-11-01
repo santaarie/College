@@ -34,6 +34,7 @@ udp://sabross.xyz:6969/announce
 udp://y.paranoid.agency:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker2.itzmx.com:6961/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker1.520.jp:443/announce
