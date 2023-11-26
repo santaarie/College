@@ -82,10 +82,10 @@ udp://open.dstud.io:6969/announce
 udp://1c.premierzal.ru:6969/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.jdx3.org:443/announce
-udp://p4p.arenabg.com:1337/announce
+udp://new-line.net:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.farted.net:6969/announce
-udp://new-line.net:6969/announce
+udp://p4p.arenabg.com:1337/announce
 udp://tracker.therarbg.to:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://bt2.archive.org:6969/announce
