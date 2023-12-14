@@ -56,8 +56,8 @@ https://tracker1.520.jp:443/announce
 https://t1.hloli.org:443/announce
 http://ch3oh.ru:6969/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://1c.premierzal.ru:6969/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://1c.premierzal.ru:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://sabross.xyz:6969/announce
@@ -69,8 +69,8 @@ udp://moonburrow.club:6969/announce
 udp://opentracker.io:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.dump.cl:6969/announce
-http://tracker.mywaifu.best:6969/announce
 udp://retracker.lanta.me:2710/announce
+http://tracker.mywaifu.best:6969/announce
 udp://tracker.theoks.net:6969/announce
 udp://evan.im:6969/announce
 https://tracker.cloudit.top:443/announce
