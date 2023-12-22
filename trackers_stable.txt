@@ -55,9 +55,9 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.srv00.com:6969/announce
 https://t1.hloli.org:443/announce
+udp://www.torrent.eu.org:451/announce
 https://tracker1.520.jp:443/announce
 udp://1c.premierzal.ru:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://moonburrow.club:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://wepzone.net:6969/announce
