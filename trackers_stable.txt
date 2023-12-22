@@ -73,8 +73,8 @@ udp://tracker.ccp.ovh:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://evan.im:6969/announce
 udp://tamas3.ynh.fr:6969/announce
-udp://thouvenin.cloud:6969/announce
 udp://open.dstud.io:6969/announce
+udp://thouvenin.cloud:6969/announce
 udp://acxx.de:6969/announce
 udp://bt2.archive.org:6969/announce
 http://ipv6.rer.lol:6969/announce
