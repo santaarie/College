@@ -30,6 +30,7 @@ udp://martin-gebhardt.eu:25/announce
 https://tr.qfruiti.in:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
+https://bot.ponomar-sibir.ru:443/announce
 udp://opentracker.i2p.rocks:6969/announce
 https://tracker1.520.jp:443/announce
 udp://uploads.gamecoast.net:6969/announce
