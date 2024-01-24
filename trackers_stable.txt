@@ -2,7 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.gbitt.info:80/announce
-http://tracker.files.fm:6969/announce
 http://open.acgnxtracker.com:80/announce
 udp://movies.zsw.ca:6969/announce
 https://tracker.lilithraws.cf:443/announce
@@ -32,6 +31,7 @@ https://shahidrazi.online:443/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.files.fm:6969/announce
 https://tracker1.520.jp:443/announce
 https://t1.hloli.org:443/announce
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -41,7 +41,6 @@ udp://tracker.mirrorbay.org:6969/announce
 https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://opentracker.i2p.rocks:6969/announce
 https://tr.burnabyhighstar.com:443/announce
 https://www.peckservers.com:9443/announce
 udp://tracker.cubonegro.lol:6969/announce
@@ -54,6 +53,7 @@ udp://open.dstud.io:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://bvarf.tracker.sh:2086/announce
 udp://tracker.cyberia.is:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 udp://epider.me:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://moonburrow.club:6969/announce
@@ -77,9 +77,9 @@ udp://tk1.trackerservers.com:8080/announce
 udp://evan.im:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://explodie.org:6969/announce
-https://tracker.gcrreen.xyz:443/announce
 http://ch3oh.ru:6969/announce
 udp://tracker.srv00.com:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 udp://wepzone.net:6969/announce
 udp://tracker.therarbg.to:6969/announce
 udp://jutone.com:6969/announce
