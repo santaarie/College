@@ -66,10 +66,10 @@ https://t1.hloli.org:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://evan.im:6969/announce
 http://v6-tracker.0g.cx:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.moeking.me:6969/announce
-udp://evan.im:6969/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
