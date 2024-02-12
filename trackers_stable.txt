@@ -25,6 +25,7 @@ https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://shahidrazi.online:443/announce
+http://torrent.hificode.in:6969/announce
 udp://open.stealth.si:80/announce
 http://tracker.files.fm:6969/announce
 https://tracker.loligirl.cn:443/announce
@@ -70,8 +71,8 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.lilithraws.org:443/announce
-http://v6-tracker.0g.cx:6969/announce
 udp://evan.im:6969/announce
+http://v6-tracker.0g.cx:6969/announce
 udp://wepzone.net:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.srv00.com:6969/announce
