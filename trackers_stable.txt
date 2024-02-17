@@ -45,8 +45,8 @@ http://bvarf.tracker.sh:2086/announce
 http://bt.okmp3.ru:2710/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
-udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.mirrorbay.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://explodie.org:6969/announce
 udp://tracker.cyberia.is:6969/announce
