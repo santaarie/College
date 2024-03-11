@@ -37,9 +37,9 @@ udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 udp://explodie.org:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
-udp://ttk2.nbaonlineservice.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
