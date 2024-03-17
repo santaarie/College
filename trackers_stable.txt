@@ -54,9 +54,9 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://tracker.lilithraws.org:443/announce
 https://shahidrazi.online:443/announce
 udp://tracker.cubonegro.lol:6969/announce
-https://track3r.site:443/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tracker.therarbg.to:6969/announce
+https://track3r.site:443/announce
 http://tracker.mywaifu.best:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
