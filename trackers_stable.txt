@@ -14,7 +14,6 @@ udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://public.demonoid.ch:6969/announce
 http://tracker.zhuqiy.eu.org:36107/announce
-udp://tcq.zhuqiy.eu.org:25091/announce
 udp://explodie.org:6969/announce
 udp://open.stealth.si:80/announce
 http://bt.okmp3.ru:2710/announce
