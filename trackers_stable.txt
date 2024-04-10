@@ -78,9 +78,9 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://new-line.net:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
+udp://run-2.publictracker.xyz:6969/announce
 udp://tracker.vds.nz:6969/announce
 http://open.acgtracker.com:1096/announce
-udp://run-2.publictracker.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.cyberia.is:6969/announce
 http://tracker1.itzmx.com:8080/announce
