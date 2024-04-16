@@ -13,7 +13,6 @@ https://trackers.mlsub.net:443/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 https://tracker.yemekyedim.com:443/announce
-https://tracker.gcrreen.xyz:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://amigacity.xyz:6969/announce
@@ -30,6 +29,7 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
+https://tracker.gcrreen.xyz:443/announce
 udp://public.demonoid.ch:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
@@ -77,8 +77,8 @@ https://tracker.cloudit.top:443/announce
 udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
 udp://jutone.com:6969/announce
-udp://open.publictracker.xyz:6969/announce
 https://torrent.opiums.eu:443/announce
+udp://open.publictracker.xyz:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://tracker.filemail.com:6969/announce
