@@ -17,6 +17,7 @@ udp://tracker.picotorrent.one:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.darkness.services:6969/announce
+udp://ttr.croco.net:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 udp://exodus.desync.com:6969/announce
