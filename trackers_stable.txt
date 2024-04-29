@@ -11,6 +11,7 @@ https://tracker.tamersunion.org:443/announce
 https://trackers.mlsub.net:443/announce
 udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
+udp://oh.fuuuuuck.com:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://evan.im:6969/announce
@@ -23,7 +24,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.files.fm:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://run.publictracker.xyz:6969/announce
-udp://oh.fuuuuuck.com:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -55,11 +55,11 @@ https://t1.hloli.org:443/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://open-v6.demonoid.ch:6969/announce
-udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker1.520.jp:443/announce
 https://track3r.site:443/announce
 udp://public.demonoid.ch:6969/announce
 udp://open.stealth.si:80/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://u.peer-exchange.download:6969/announce
