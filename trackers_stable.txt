@@ -74,8 +74,8 @@ http://isk.richardsw.club:6969/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://1c.premierzal.ru:6969/announce
-https://tracker.lilithraws.org:443/announce
 udp://seedpeer.net:6969/announce
+https://tracker.lilithraws.org:443/announce
 udp://open-tracker.demonoid.ch:6969/announce
 https://tracker.pmman.tech:443/announce
 udp://jutone.com:6969/announce
