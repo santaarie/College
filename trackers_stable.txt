@@ -49,12 +49,12 @@ udp://epider.me:6969/announce
 https://tracker.gcrreen.xyz:443/announce
 https://tracker.gcrenwp.top:443/announce
 udp://tracker.dler.com:6969/announce
+http://tracker.mywaifu.best:6969/announce
 https://tracker2.ctix.cn:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://open.demonoid.ch:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://bt2.archive.org:6969/announce
-http://tracker.mywaifu.best:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 https://tracker.ipfsscan.io:443/announce
 udp://u.peer-exchange.download:6969/announce
