@@ -60,11 +60,11 @@ https://tracker.cloudit.top:443/announce
 udp://seedpeer.net:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://tamas3.ynh.fr:6969/announce
+https://tracker.ipfsscan.io:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://t.peer-exchange.download:443/announce
-https://tracker.ipfsscan.io:443/announce
-http://tracker.mywaifu.best:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+http://tracker.mywaifu.best:6969/announce
 udp://odd-hd.fr:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
