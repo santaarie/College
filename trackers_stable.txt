@@ -25,9 +25,9 @@ udp://moonburrow.club:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.gcrreen.xyz:443/announce
+udp://tracker.qu.ax:6969/announce
 https://tracker.gcrenwp.top:443/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://tracker.darkness.services:6969/announce
