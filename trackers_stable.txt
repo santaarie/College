@@ -45,6 +45,7 @@ http://bvarf.tracker.sh:2086/announce
 udp://open.demonoid.ch:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://bt2.archive.org:6969/announce
+udp://z.mercax.com:53/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -60,7 +61,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://bt1.archive.org:6969/announce
 https://tracker.ipfsscan.io:443/announce
 https://t.peer-exchange.download:443/announce
-udp://z.mercax.com:53/announce
 udp://tk1.trackerservers.com:8080/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tamas3.ynh.fr:6969/announce
@@ -75,8 +75,8 @@ udp://tracker.filemail.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://tracker.pmman.tech:443/announce
 udp://open.dstud.io:6969/announce
-udp://open-tracker.demonoid.ch:6969/announce
 https://www.peckservers.com:9443/announce
-udp://btt.service.gongt.me:43079/announce
+udp://open-tracker.demonoid.ch:6969/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://btt.service.gongt.me:43079/announce
 http://p2p.0g.cx:6969/announce
