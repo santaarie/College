@@ -57,8 +57,8 @@ http://tracker1.itzmx.com:8080/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://u4.trakx.crim.ist:1337/announce
-https://tracker.cloudit.top:443/announce
 udp://bt1.archive.org:6969/announce
+https://tracker.cloudit.top:443/announce
 udp://run.publictracker.xyz:6969/announce
 http://isk.richardsw.club:6969/announce
 https://tracker.ipfsscan.io:443/announce
@@ -76,6 +76,6 @@ udp://tracker.filemail.com:6969/announce
 udp://jutone.com:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://1c.premierzal.ru:6969/announce
-udp://tracker.picotorrent.one:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 http://p2p.0g.cx:6969/announce
+udp://tracker.picotorrent.one:6969/announce
