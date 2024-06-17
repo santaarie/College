@@ -76,4 +76,3 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://z.mercax.com:53/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://open-tracker.demonoid.ch:6969/announce
-https://pybittrack.retiolus.net:443/announce
