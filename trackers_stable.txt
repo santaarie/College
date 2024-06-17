@@ -1,3 +1,4 @@
+udp://open.stealth.si:80/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://bubu.mapfactor.com:6969/announce
@@ -10,7 +11,6 @@ udp://tracker.fnix.net:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://amigacity.xyz:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
-udp://open.stealth.si:80/announce
 http://tracker.files.fm:6969/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
