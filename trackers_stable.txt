@@ -56,11 +56,11 @@ https://trackers.run:443/announce
 udp://odd-hd.fr:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
-udp://amigacity.xyz:6969/announce
-http://open.acgtracker.com:1096/announce
 http://t1.aag.moe:17715/announce
-https://tracker.cloudit.top:443/announce
+http://open.acgtracker.com:1096/announce
 udp://retracker.hotplug.ru:2710/announce
+https://tracker.cloudit.top:443/announce
+udp://amigacity.xyz:6969/announce
 udp://wepzone.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://u.peer-exchange.download:6969/announce
@@ -74,4 +74,3 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 https://t.peer-exchange.download:443/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://tracker.darkness.services:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
