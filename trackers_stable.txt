@@ -45,8 +45,8 @@ udp://tracker.deadorbit.nl:6969/announce
 http://tracker.files.fm:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.dstud.io:6969/announce
-udp://seedpeer.net:6969/announce
 udp://moonburrow.club:6969/announce
+udp://seedpeer.net:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://run.publictracker.xyz:6969/announce
@@ -61,9 +61,9 @@ https://tracker.lilithraws.org:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker.torrust-demo.com:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.dump.cl:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 http://t1.aag.moe:17715/announce
 http://isk.richardsw.club:6969/announce
 http://open.acgtracker.com:1096/announce
