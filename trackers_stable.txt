@@ -50,8 +50,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://open.publictracker.xyz:6969/announce
-udp://open.dstud.io:6969/announce
 https://tracker.cloudit.top:443/announce
+udp://open.dstud.io:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://retracker.x2k.ru:80/announce
