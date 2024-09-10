@@ -44,11 +44,11 @@ udp://tracker.xor.st:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://seedpeer.net:6969/announce
+udp://tracker.dler.com:6969/announce
 udp://run.publictracker.xyz:6969/announce
 https://tracker.lilithraws.org:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tracker.dler.com:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 http://retracker.x2k.ru:80/announce
 udp://bt1.archive.org:6969/announce
