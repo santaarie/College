@@ -43,12 +43,12 @@ udp://bandito.byterunner.io:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://bt1.archive.org:6969/announce
 http://tracker2.itzmx.com:6961/announce
-udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.cyberia.is:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://trackarr.org:6969/announce
+udp://tracker.kmzs123.tk:17272/announce
 https://api.ipv4online.uk:443/announce
 udp://tracker.filemail.com:6969/announce
 http://tracker.k.vu:6969/announce
