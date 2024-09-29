@@ -34,7 +34,6 @@ https://tracker.bjut.jp:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
-https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
@@ -114,9 +113,9 @@ udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.org:80/announce
-udp://tracker2.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
+udp://www.torrent.eu.org:451/announce
 udp://z.mercax.com:53/announce
