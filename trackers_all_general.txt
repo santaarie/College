@@ -40,7 +40,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
-https://tracker1.520.jp:443/announce
+https://tracker1.itzmx.com:8080/announce
 https://trackers.mlsub.net:443/announce
 https://www.peckservers.com:9000/announce
 https://www.peckservers.com:9443/announce
@@ -82,7 +82,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-udp://tk2v6.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
@@ -120,5 +119,4 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://z.mercax.com:53/announce
