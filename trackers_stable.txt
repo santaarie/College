@@ -16,6 +16,7 @@ udp://tracker.waaa.moe:6969/announce
 http://tracker1.itzmx.com:8080/announce
 udp://tracker2.itzmx.com:6961/announce
 udp://tracker.cloaka.xyz:1337/announce
+http://tracker.bittor.pw:1337/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://explodie.org:6969/announce
 http://tracker.bt4g.com:2095/announce
@@ -52,8 +53,8 @@ http://bvarf.tracker.sh:2086/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tk2.trackerservers.com:8080/announce
-https://retracker.x2k.ru:443/announce
 udp://tracker4.itzmx.com:2710/announce
+https://retracker.x2k.ru:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://u6.trakx.crim.ist:1337/announce
