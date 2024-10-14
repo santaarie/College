@@ -50,8 +50,8 @@ udp://bandito.byterunner.io:6969/announce
 http://tracker.bittor.pw:1337/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
-udp://tracker.cyberia.is:6969/announce
 udp://tracker.gigantino.net:6969/announce
+udp://tracker.cyberia.is:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://sparkle.ghostchu-services.top:443/announce
 https://tracker.cloudit.top:443/announce
@@ -65,5 +65,5 @@ udp://opentracker.io:6969/announce
 https://tr2.trkb.ru:443/announce
 udp://tracker.torrust-demo.com:6969/announce
 http://tracker.renfei.net:8080/announce
-https://tracker.pmman.tech:443/announce
 http://open.acgtracker.com:1096/announce
+https://tracker.pmman.tech:443/announce
