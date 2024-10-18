@@ -8,7 +8,6 @@ http://ipv6.rer.lol:6969/announce
 http://open.acgtracker.com:1096/announce
 http://open.tracker.ink:6969/announce
 http://public.tracker.vraphim.com:6969/announce
-http://smurfsoft.com:6969/announce
 http://t.overflow.biz:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tr.kxmp.cf:80/announce
@@ -88,6 +87,7 @@ udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
+udp://tk2v6.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
