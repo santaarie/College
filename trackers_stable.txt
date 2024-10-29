@@ -25,7 +25,6 @@ udp://seedpeer.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://trackarr.org:6969/announce
-https://tracker.uraniumhexafluori.de:443/announce
 https://p2p.azu.red:443/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
@@ -39,6 +38,7 @@ http://bt.okmp3.ru:2710/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://serpb.vpsburti.com:6969/announce
+https://tracker.uraniumhexafluori.de:443/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 https://tracker.yemekyedim.com:443/announce
@@ -63,8 +63,8 @@ http://tracker.renfei.net:8080/announce
 udp://opentracker.io:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://jutone.com:6969/announce
+http://tracker.vraphim.com:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://tk2v6.trackerservers.com:8080/announce
-http://tracker.vraphim.com:6969/announce
-udp://tracker.torrust-demo.com:6969/announce
 https://tracker.pmman.tech:443/announce
+udp://tracker.torrust-demo.com:6969/announce
