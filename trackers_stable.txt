@@ -36,11 +36,11 @@ http://canardscitrons.nohost.me:6969/announce
 https://p2p.azu.red:443/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://seedpeer.net:6969/announce
+udp://amigacity.xyz:6969/announce
 udp://serpb.vpsburti.com:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://ismaarino.com:1234/announce
-udp://amigacity.xyz:6969/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://bt.okmp3.ru:2710/announce
@@ -61,8 +61,8 @@ udp://t.overflow.biz:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker-us.silksa.co.za:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://www.torrent.eu.org:451/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 http://tracker.renfei.net:8080/announce
 udp://retracker.hotplug.ru:2710/announce
