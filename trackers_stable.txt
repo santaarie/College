@@ -74,3 +74,4 @@ udp://tracker-udp.gbitt.info:80/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
+udp://tracker.qu.ax:6969/announce
