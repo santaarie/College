@@ -74,4 +74,3 @@ udp://jutone.com:6969/announce
 https://api.ipv4online.uk:443/announce
 udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
-udp://tracker.darkness.services:6969/announce
