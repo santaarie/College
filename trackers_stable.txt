@@ -73,4 +73,5 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://tk4.leechshield.link:6969/announce
 https://tracker.bjut.jp:443/announce
 udp://tk1.trackerservers.com:8080/announce
+udp://7p41a8967.wicp.vip:22222/announce
 https://mathkangaroo.jp:443/announce
