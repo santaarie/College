@@ -73,5 +73,5 @@ udp://tk1.trackerservers.com:8080/announce
 https://tracker.bjut.jp:443/announce
 https://mathkangaroo.jp:443/announce
 http://open.acgtracker.com:1096/announce
-udp://7p41a8967.wicp.vip:22222/announce
 udp://open.dstud.io:6969/announce
+udp://7p41a8967.wicp.vip:22222/announce
