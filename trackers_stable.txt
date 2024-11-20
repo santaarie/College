@@ -65,7 +65,7 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://www.torrent.eu.org:451/announce
 https://tracker.cloudit.top:443/announce
 http://tracker2.itzmx.com:6961/announce
-http://tracker.renfei.net:8080/announce
+https://tracker.renfei.net:8080/announce
 udp://opentracker.io:6969/announce
 udp://retracker.lanta.me:2710/announce
 https://api.ipv4online.uk:443/announce
