@@ -18,6 +18,7 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker4.itzmx.com:2710/announce
 udp://open.deadorbit.nl:6969/announce
+https://t.213891.xyz:443/announce
 udp://explodie.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://u6.trakx.crim.ist:1337/announce
