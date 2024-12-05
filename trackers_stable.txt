@@ -26,7 +26,6 @@ udp://tracker.0x7c0.com:6969/announce
 udp://odd-hd.fr:6969/announce
 https://pybittrack.retiolus.net:443/announce
 https://tracker.leechshield.link:443/announce
-https://tr.zukizuki.org:443/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.qu.ax:6969/announce
@@ -40,6 +39,7 @@ udp://explodie.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 udp://ismaarino.com:1234/announce
+https://tr.zukizuki.org:443/announce
 http://tracker2.itzmx.com:6961/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.srv00.com:6969/announce
