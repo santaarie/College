@@ -741,7 +741,6 @@ https://tr.highstar.shop/announce
 https://tr.highstar.shop:443/announce
 https://tr.kxmp.cf:80/announce
 https://tr.nyacat.pw/announce
-https://tr.nyacat.pw:443/announce
 https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
@@ -843,7 +842,6 @@ https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
 https://tracker.vectahosting.eu/announce
 https://tracker.vectahosting.eu:443/announce
-https://tracker.wsaoa.eu.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp/announce
 https://tracker1.520.jp:443/announce
