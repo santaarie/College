@@ -46,5 +46,5 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://t.overflow.biz:6969/announce
 https://retracker.x2k.ru:443/announce
 udp://opentracker.io:6969/announce
-https://api.ipv4online.uk:443/announce
 udp://tracker.fnix.net:6969/announce
+https://api.ipv4online.uk:443/announce
