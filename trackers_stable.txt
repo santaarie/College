@@ -54,3 +54,4 @@ udp://tracker.filemail.com:6969/announce
 udp://opentracker.io:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://tracker.kmzs123.top:17272/announce
+udp://tr3.ysagin.top:2715/announce
