@@ -8,7 +8,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
-https://tracker.yemekyedim.com:443/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.gigantino.net:6969/announce
 http://tracker.beeimg.com:6969/announce
@@ -25,6 +24,7 @@ https://t.213891.xyz:443/announce
 udp://open.stealth.si:80/announce
 udp://open.demonii.com:1337/announce
 http://tracker.privateseedbox.xyz:2710/announce
+https://tracker.yemekyedim.com:443/announce
 https://tracker.bjut.jp:443/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
