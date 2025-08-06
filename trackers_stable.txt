@@ -38,8 +38,8 @@ udp://tracker.hifitechindia.com:6969/announce
 https://opentracker.8880085.xyz:443/announce
 https://tr.nyacat.pw:443/announce
 udp://1c.premierzal.ru:6969/announce
-http://tracker.privateseedbox.xyz:2710/announce
 http://taciturn-shadow.spb.ru:6969/announce
+http://tracker.privateseedbox.xyz:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://tracker.fnix.net:6969/announce
 https://pybittrack.retiolus.net:443/announce
