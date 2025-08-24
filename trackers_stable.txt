@@ -18,7 +18,6 @@ udp://tracker.ducks.party:1984/announce
 http://ipv4.rer.lol:2710/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.cutie.dating:443/announce
-http://speedtest.iperson.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 https://tracker.alaskantf.com:443/announce
 udp://tracker.dler.com:6969/announce
@@ -30,6 +29,7 @@ udp://open.stealth.si:80/announce
 udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://extracker.dahrkael.net:6969/announce
+http://speedtest.iperson.xyz:6969/announce
 udp://tracker.valete.tf:9999/announce
 udp://martin-gebhardt.eu:25/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
