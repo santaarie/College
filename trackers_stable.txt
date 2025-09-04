@@ -15,6 +15,7 @@ https://tracker.expli.top:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
+udp://tracker.plx.im:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 https://tracker.alaskantf.com:443/announce
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -26,7 +27,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.beeimg.com:6969/announce
 https://tr.nyacat.pw:443/announce
-udp://tracker.plx.im:6969/announce
 udp://open.stealth.si:80/announce
 udp://martin-gebhardt.eu:25/announce
 udp://bandito.byterunner.io:6969/announce
@@ -44,8 +44,8 @@ http://open.trackerlist.xyz:80/announce
 udp://www.torrent.eu.org:451/announce
 udp://tracker.cloudbase.store:1333/announce
 http://torrent.hificode.in:6969/announce
-udp://1c.premierzal.ru:6969/announce
 udp://tracker.zupix.online:1333/announce
+udp://1c.premierzal.ru:6969/announce
 http://0123456789nonexistent.com:80/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.zhuqiy.top:443/announce
