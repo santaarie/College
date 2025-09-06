@@ -40,8 +40,8 @@ udp://open.demonii.com:1337/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.gigantino.net:6969/announce
 udp://bt.bontal.net:6969/announce
-http://open.trackerlist.xyz:80/announce
 udp://www.torrent.eu.org:451/announce
+http://open.trackerlist.xyz:80/announce
 https://tracker.zhuqiy.top:443/announce
 http://torrent.hificode.in:6969/announce
 udp://tracker.cloudbase.store:1333/announce
@@ -52,8 +52,8 @@ http://shubt.net:2710/announce
 udp://tracker.startwork.cv:1337/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://opentracker.io:6969/announce
-udp://tracker.rescuecrew7.com:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.skillindia.site:6969/announce
 https://2.tracker.eu.org:443/announce
 udp://tracker.bitcoinindia.space:6969/announce
