@@ -23,6 +23,7 @@ https://t.213891.xyz:443/announce
 udp://rekcart.duckdns.org:15480/announce
 https://cny.fan:443/announce
 udp://tracker.1h.is:1337/announce
+https://tracker.qingwa.pro:443/announce
 udp://tracker.torrent.eu.org:451/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.valete.tf:9999/announce
@@ -57,9 +58,10 @@ udp://open.dstud.io:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://tr.zukizuki.org:443/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://opentracker.io:6969/announce
 http://tracker.tritan.gg:8080/announce
+udp://tracker.hifimarket.in:2710/announce
