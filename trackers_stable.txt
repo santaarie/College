@@ -48,9 +48,9 @@ https://tracker.moeking.me:443/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 http://tracker.beeimg.com:6969/announce
-udp://tracker.dler.com:6969/announce
 udp://public.demonoid.ch:6969/announce
 https://tracker.zhuqiy.com:443/announce
+udp://tracker.dler.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.gmi.gd:6969/announce
