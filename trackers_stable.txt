@@ -3,7 +3,6 @@ udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://lucke.fenesisu.moe:6969/announce
 udp://tracker.ducks.party:1984/announce
-udp://extracker.dahrkael.net:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://torrentclub.online:54123/announce
 https://tracker.iochimari.moe:443/announce
@@ -21,6 +20,7 @@ udp://public.demonoid.ch:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://tracker.renfei.net:8080/announce
+udp://extracker.dahrkael.net:6969/announce
 http://ipv4.rer.lol:2710/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.bluefrog.pw:2710/announce
@@ -44,9 +44,9 @@ https://tracker.ghostchu-services.top:443/announce
 https://tracker.pmman.tech:443/announce
 https://tr.nyacat.pw:443/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-udp://6ahddutb1ucc3cp.ru:6969/announce
 https://shahidrazi.online:443/announce
 http://tr.highstar.shop:80/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://t.213891.xyz:443/announce
 udp://tracker.srv00.com:6969/announce
