@@ -5,7 +5,6 @@ udp://tracker.tryhackx.org:6969/announce
 udp://evan.im:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
-https://tracker.uraniumhexafluori.de:443/announce
 http://lucke.fenesisu.moe:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://extracker.dahrkael.net:6969/announce
