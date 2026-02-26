@@ -26,6 +26,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 https://t.213891.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
+udp://torrentvpn.club:6990/announce
 https://tracker.novy.vip:443/announce
 http://bt.okmp3.ru:2710/announce
 udp://open.demonii.com:1337/announce
@@ -53,5 +54,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.therarbg.to:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://tracker.iperson.xyz:6969/announce
-http://bvarf.tracker.sh:2086/announce
 udp://tracker.sharebro.in:6969/announce
+http://bvarf.tracker.sh:2086/announce
