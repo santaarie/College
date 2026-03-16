@@ -29,6 +29,7 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://open.demonii.com:1337/announce
 http://taciturn-shadow.spb.ru:6969/announce
+http://echostar.ddnsfree.com:8080/announce
 udp://tracker.playground.ru:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://uabits.today:6990/announce
@@ -40,7 +41,6 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 https://tracker.manager.v6.navy:443/announce
-http://echostar.ddnsfree.com:8080/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://t.overflow.biz:6969/announce
 https://tracker.ghostchu-services.top:443/announce
