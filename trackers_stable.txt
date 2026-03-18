@@ -55,5 +55,5 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.theoks.net:6969/announce
-udp://bt.rer.lol:6969/announce
 https://tr.zukizuki.org:443/announce
+udp://bt.rer.lol:6969/announce
