@@ -37,8 +37,8 @@ http://tracker.dhitechnical.com:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 http://tracker.exe.in.th:6969/announce
-http://ipv6.rer.lol:6969/announce
 http://ipv4.rer.lol:2710/announce
+http://ipv6.rer.lol:6969/announce
 udp://tracker.gmi.gd:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.ixuexi.click:6969/announce
