@@ -53,4 +53,3 @@ https://tracker.nekomi.cn:443/announce
 udp://www.nartlof.com:6969/announce
 http://open.acgtracker.com:1096/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
