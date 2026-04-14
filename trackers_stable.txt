@@ -51,3 +51,4 @@ udp://www.nartlof.com:6969/announce
 https://tracker.nekomi.cn:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
+udp://udp1.torrust-tracker-demo.com:6969/announce
