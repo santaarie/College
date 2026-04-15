@@ -317,7 +317,6 @@ http://kinorun.com:80/announce.php
 http://li1406-230.members.linode.com:6969/announce
 http://li2021-95.members.linode.com:6969/announce
 http://lima-peru.subventas.com:443/announce
-http://lucke.fenesisu.moe:6969/announce
 http://mail.lakameraobscura.com:6969/announce
 http://masters-tb.com/announce.php
 http://masters-tb.com:80/announce.php
@@ -755,7 +754,6 @@ https://tr.ready4.icu/announce
 https://tr.ready4.icu:443/announce
 https://tr.torland.ga/announce
 https://tr.torland.ga:443/announce
-https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 https://tracker.4.babico.name.tr/announce
 https://tracker.7471.top:443/announce
 https://tracker.baka.ink/announce
