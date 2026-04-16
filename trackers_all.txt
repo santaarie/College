@@ -703,6 +703,7 @@ https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 https://nyaa.tracker.wf:7777/announce
 https://open.kickasstracker.com/announce
 https://open.kickasstracker.com:443/announce
+https://opentracker.8880085.xyz:443/announce
 https://opentracker.cc/announce
 https://opentracker.cc:443/announce
 https://opentracker.i2p.rocks/announce
@@ -1145,7 +1146,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tsundere.pw:6969/announce
 udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
-udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
