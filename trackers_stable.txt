@@ -43,8 +43,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://tracker.wildkat.net:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://seedpeer.net:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 https://opentracker.8880085.xyz:443/announce
