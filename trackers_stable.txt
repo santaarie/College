@@ -23,7 +23,6 @@ https://tracker.7471.top:443/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
-udp://tracker.plx.im:6969/announce
 udp://tracker.playground.ru:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
 https://tracker.yggleak.top:443/announce
@@ -32,11 +31,12 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.com:6969/announce
+udp://tracker.plx.im:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.1h.is:1337/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.t-1.org:6969/announce
 http://tracker.exe.in.th:6969/announce
+https://tracker.pmman.tech:443/announce
 https://t.213891.xyz:443/announce
 http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
