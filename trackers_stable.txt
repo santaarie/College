@@ -1,5 +1,6 @@
 udp://open.stealth.si:80/announce
 udp://retracker.hotplug.ru:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -32,7 +33,6 @@ udp://tracker.bluefrog.pw:2710/announce
 https://tracker.7471.top:443/announce
 http://bt1.archive.org:6969/announce
 udp://open.ftorrent.com:443/announce
-udp://tracker.torrent.eu.org:451/announce
 udp://seedpeer.net:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://udp.tracker.projectk.org:23333/announce
