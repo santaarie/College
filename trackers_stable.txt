@@ -20,6 +20,7 @@ udp://tracker-udp.gbitt.info:80/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://torrents.tmtime.dev:443/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.anibt.net:443/announce
 https://banananetwork.qzz.io:443/announce
 udp://tracker.t-1.org:6969/announce
@@ -27,7 +28,6 @@ https://tr.nyacat.pw:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://uabits.today:6990/announce
-udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://tracker.gmi.gd:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
@@ -39,8 +39,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.renfei.net:8080/announce
 udp://tracker.breizh.pm:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.qu.ax:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.tritan.gg:8080/announce
 http://tracker.ipv6tracker.ru:80/announce
