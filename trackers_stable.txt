@@ -21,12 +21,12 @@ https://021912.xyz:443/announce
 udp://mail.segso.net:6969/announce
 https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
-udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.aruku.ovh:8081/announce
+udp://tracker.opentrackr.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://open.stealth.si:80/announce
