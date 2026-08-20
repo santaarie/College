@@ -24,10 +24,10 @@ udp://tracker.qu.ax:6969/announce
 udp://evan.im:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr3.ysagin.top:2715/announce
-https://tr.zukizuki.org:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://retracker.hotplug.ru:2710/announce
+https://tr.zukizuki.org:443/announce
 udp://tracker.aruku.ovh:8081/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.cynma.tv:6969/announce
