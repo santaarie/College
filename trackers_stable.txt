@@ -49,5 +49,5 @@ http://tracker.dhitechnical.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 https://004430.xyz:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
-http://tracker.mywaifu.best:6969/announce
 https://tracker.qingwapt.org:443/announce
+http://tracker.mywaifu.best:6969/announce
