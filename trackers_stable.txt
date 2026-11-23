@@ -45,8 +45,8 @@ https://tracker.qingwapt.org:443/announce
 udp://tracker.nyaa.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://open.ftorrent.com:443/announce
-http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.dler.com:6969/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.alt.cx:6969/announce
